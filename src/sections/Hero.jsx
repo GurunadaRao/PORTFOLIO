@@ -83,10 +83,11 @@ export default function Hero() {
           transition={{ delay: 0.6, duration: 0.7 }}
         >
           <img
-            src="src/assets/hero.jpg"
-            alt="Portrait of Gurunada Rao"
-            className="w-48 sm:w-56 md:w-64 lg:w-72 xl:w-80 rounded-full shadow-lg object-cover"
-          />
+            src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMBpkr7arRF7ydBdczLVxbjGYxWUsWQTOF_mxss47qbfR11WI0JlMj9cGFtGDLaPMft2A1GImHX3Un8Ky3asaOIrTcu8d5qdiXW7jHUwjmrcXZtMbkeSmAjTUGEL9nch7BQEALTV4pVE6LJlCxnzCGFGfnLdrZPuYhyczLlzj1gu_cQ2FMCcAME800wI0/s320/final.jpg"
+            alt="GURUNADA RAO"
+            border="0"
+            className=" border-4 border-blue-500 rounded-full shadow-lg ring-2 ring-blue-400/50 shadow-blue-500  "
+          ></img>
         </motion.div>
       </div>
     </section>
