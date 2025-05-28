@@ -1,14 +1,7 @@
 import { motion } from "framer-motion";
 
 const projects = [
-  {
-    title: "Grammar Corrector App",
-    description:
-      "Fix grammar errors like a boss using AI. Real-time grammar correction with OpenAI API.",
-    tech: "React, Node.js, Express, OpenAI API",
-    img: "https://www.euroschoolindia.com/blogs/wp-content/uploads/2023/06/teaching-grammar-to-kids.jpg", // replace with your own screenshot
-    link: "https://your-grammar-app-link.com",
-  },
+ 
   {
     title: "Starbucks Clone (Starbevs)",
     description:
@@ -40,6 +33,14 @@ const projects = [
     tech: "React, Firebase, TMDB API",
     img: "https://i.pcmag.com/imagery/reviews/05cItXL96l4LE9n02WfDR0h-5..v1582751026.png", // replace with screenshot
     link: "https://fate-cerulean-orbit.glitch.me/",
+  },
+   {
+    title: "Grammar Corrector App",
+    description:
+      "Fix grammar errors like a boss using AI. Real-time grammar correction with OpenAI API.",
+    tech: "React, Node.js, Express, OpenAI API",
+    img: "https://www.euroschoolindia.com/blogs/wp-content/uploads/2023/06/teaching-grammar-to-kids.jpg", // replace with your own screenshot
+    link: "https://your-grammar-app-link.com",
   },
 ];
 
